@@ -15,15 +15,43 @@ Para executar este projeto, você pode usar um servidor HTTP simples fornecido p
 1. Certifique-se de que você tem o Python instalado em sua máquina. Você pode verificar isso executando o comando:
 
    ```sh
-   python --version ou python3 --version
+   python --version
+   ```
 
-Para Python 3:
-    ```sh
-   python3 -m http.server
+   ou
 
-Para Python 2:
-    ```sh
-    python -m SimpleHTTPServer
+   ```sh
+   python3 --version
+   ```
 
-    O servidor será iniciado e estará disponível no endereço:
-    http://localhost:8000
+2. Navegue até o diretório do projeto no terminal:
+
+   ```sh
+   cd /Users/rubensmouraaugusto/Documents/android\ Study/POC\ Web\ View\ compose/web
+   ```
+
+3. Inicie um servidor HTTP com Python:
+
+   - Para Python 3:
+
+     ```sh
+     python3 -m http.server
+     ```
+
+   - Para Python 2:
+
+     ```sh
+     python -m SimpleHTTPServer
+     ```
+
+4. O servidor será iniciado e estará disponível no endereço:
+
+   ```
+   http://localhost:8000
+   ```
+
+5. Abra o navegador e acesse o endereço acima para visualizar o projeto.
+
+## Observação
+
+Certifique-se de que todas as páginas HTML estão no mesmo diretório para que os links funcionem corretamente.

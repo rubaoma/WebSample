@@ -1,6 +1,6 @@
 # WebSample
 
-Este é um exemplo simples de um projeto web com navegação entre páginas HTML.
+Este é um exemplo simples de um projeto web com navegação entre páginas HTML, usado para testar a POC do repositorio WebViewCompose, rode esse projeto para testar usá-lo caso queira.
 
 ## Estrutura do Projeto
 

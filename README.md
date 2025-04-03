@@ -27,7 +27,7 @@ Para executar este projeto, você pode usar um servidor HTTP simples fornecido p
 2. Navegue até o diretório do projeto no terminal:
 
    ```sh
-   cd /Users/rubensmouraaugusto/Documents/android\ Study/POC\ Web\ View\ compose/web
+   cd /caminho/para/o/diretorio/do/projeto
    ```
 
 3. Inicie um servidor HTTP com Python:

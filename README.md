@@ -18,9 +18,11 @@ Para executar este projeto, você pode usar um servidor HTTP simples fornecido p
    python --version ou python3 --version
 
 Para Python 3:
+    ```sh
    python3 -m http.server
 
 Para Python 2:
+    ```sh
     python -m SimpleHTTPServer
 
     O servidor será iniciado e estará disponível no endereço:
